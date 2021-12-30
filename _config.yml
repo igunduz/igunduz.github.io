@@ -313,6 +313,6 @@ compress_html:
 #add theme
 plugins:
   - jekyll-remote-theme
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
