@@ -8,8 +8,8 @@ gallery:
     title: "R/Bioconductor Package for Simulation and Deconvolution of Omic Profiles"
 ---
 
-During my career, I benefited from countless open-source materials and software.
-I'm eager to adopt the open-source methodology as a principle and share the code
+I benefited from countless open-source materials and software until now. I'm
+eager to adopt the open-source methodology as a principle and share the code
 I've written to use it in my work. In addition, I value developing software for
 sharing methods that can be used over and over again on easily accessible
 platforms such as [Bioconductor.](https://www.bioconductor.org/)
