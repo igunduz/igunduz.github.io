@@ -34,7 +34,7 @@ reference signature profiles and a user-selected model (non-negative least
 squares,quadratic programming, support vector regression, or robust linear
 regression). 
 
-{% include gallery max-width='50' %}
+{% include gallery %}
 
 ## Installation
 
