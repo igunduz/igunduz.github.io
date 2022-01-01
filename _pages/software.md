@@ -1,11 +1,11 @@
 ---
-permalink: /software/
 title: "Software"
+permalink: /software/
 gallery:
-  - url: software/deconvR_logo.png
-    image_path: software/deconvR_logo.png
-    alt: "R/Bioconductor Package for Simulation and Deconvolution of Omic Profiles"
-    title: "R/Bioconductor Package for Simulation and Deconvolution of Omic Profiles"
+- url: software/deconvR_logo.png
+  image_path: software/deconvR_logo.png
+  alt: R/Bioconductor Package for Simulation and Deconvolution of Omic Profiles
+  title: R/Bioconductor Package for Simulation and Deconvolution of Omic Profiles
 ---
 
 I benefited from countless open-source materials and software until now. I'm
@@ -34,7 +34,8 @@ reference signature profiles and a user-selected model (non-negative least
 squares,quadratic programming, support vector regression, or robust linear
 regression). 
 
-{% include gallery %}
+{% include gallery image:height?width=50 %}
+
 
 ## Installation
 
