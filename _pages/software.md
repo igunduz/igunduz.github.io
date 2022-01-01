@@ -14,7 +14,9 @@ I've written to use it in my work. In addition, I value developing software for
 sharing methods that can be used over and over again on easily accessible
 platforms such as [Bioconductor.](https://www.bioconductor.org/)
 
-I hope to develop more software in my future work. Below you will find the R package called [**deconvR**](https://bioconductor.org/packages/release/bioc/html/deconvR.html), which I had the opportunity to develop during my internship at [Max Delbrück Center for Molecular Medicine.](https://www.mdc-berlin.de/)
+Below you will find the R package called
+[**deconvR**](https://bioconductor.org/packages/release/bioc/html/deconvR.html),
+which I had the opportunity to develop during my internship at [Max Delbrück Center for Molecular Medicine](https://www.mdc-berlin.de/).
 
 # deconvR
 
