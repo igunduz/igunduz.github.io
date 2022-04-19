@@ -16,7 +16,6 @@ it. I use bioinformatics and computational epigenomics to develop a better
 understanding of cellular regulatory dynamics and cell state in developmental
 systems as well as in diseases.
 
-![Waddington’s epigenetic landscape,epigenetic factors control cell fate](https://icb.uni-saarland.de/wp-content/uploads/2020/10/waddington-768x675.png)
 My research interests can be summarized as but are not limited to:
 
 *  Computational epigenomics
