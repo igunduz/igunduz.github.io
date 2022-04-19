@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ÝREM B. GÜNDÜZ"
+title                    : "Ä°REM B. GÃœNDÃœZ"
 title_separator          : "-"
-name                     : &name "ÝREM GÜNDÜZ"
+name                     : &name "Ä°REM GÃœNDÃœZ"
 description              : &description "Graduate Student at Saarland University"
 url                      : https://igunduz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ÝREM GÜNDÜZ"
+  name             : "Ä°REM GÃœNDÃœZ"
   avatar           : "profile.jpg"
   bio              : "Graduate Student at Saarland University"
   location         : "Saarland,Germany"
@@ -150,7 +150,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-#encoding: "utf-8"
+encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
@@ -315,3 +315,4 @@ plugins:
   - jekyll-remote-theme
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
