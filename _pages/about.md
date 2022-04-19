@@ -18,7 +18,7 @@ I always enjoyed figuring out how something works, why it breaks, and how to fix
 it. I discovered the world of epigenetics during my undergraduate studies and,
 soon it imbued my interest.
 
--![Epigenetic factors control cell fate (Waddington???s epigenetic landscape)](waddington-768x675.png)
+-![Epigenetic factors control cell fate (Waddington's epigenetic landscape)](waddington-768x675.png)
 
 I use bioinformatics and computational epigenomics to develop a better
 understanding of cellular regulatory dynamics and cell state in developmental
