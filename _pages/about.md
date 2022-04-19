@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "*Merhaba!* *Hi!* *Hallo!*  *Bonjour!*"
 permalink: /
 excerpt: About me
 author_profile: yes
@@ -7,9 +7,6 @@ redirect_from:
 - /about/
 - /about.html
 ---
-
-*Merhaba!* *Hi!* *Hallo!*  *Bonjour!*
-
 
 I'm a PhD student in Computer Science at [Saarland University.](https://www.uni-saarland.de/en/department/department-of-computer-science.html)
 I am currently working in the [Integrative Cellular Biology and Bioinformatics laboratory](https://icb.uni-saarland.de/) led by [Prof. Fabian Muller.](https://icb.uni-saarland.de/people/fabian-muller/) as a rotation student.
