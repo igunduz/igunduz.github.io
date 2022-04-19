@@ -1,8 +1,16 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
 locale                   : "en-US"
-title                    : "Irem B. Gündüz"
+title                    : "IREM B. GÜNDÜZ"
 title_separator          : "-"
-name                     : &name "Irem B. Gündüz"
-description              : &description "PhD Canditate in Computer Science"
+name                     : &name "IREM GÜNDÜZ"
+description              : &description "Graduate Student at Saarland University"
 url                      : https://igunduz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "igunduz/igunduz.github.io"
@@ -72,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Irem B. Gündüz"
+  name             : "ÝREM B. GÜNDÜZ"
   avatar           : "profile.jpg"
-  bio              : "Phd Canditate at Saarland University"
-  location         : "Saarbrücken,Germany"
+  bio              : "PhD Canditate in Computer Science"
+  location         : "Saarland,Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vQvqhpcAAAAJ&hl=tr&authuser=1"
@@ -307,4 +315,3 @@ plugins:
   - jekyll-remote-theme
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
