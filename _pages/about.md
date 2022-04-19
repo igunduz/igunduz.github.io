@@ -21,10 +21,12 @@ My research interests can be summarized as but are not limited to:
 
 *  Computational epigenomics
 *  Applied machine learning 
+*  Aging biology 
 *  Chromatin biology 
 *  Single-cell technology
 *  Developmental and disease biology
 *  Software development for bioinformatics
+
 
 I'm also an active member of [Bioinformatics Research Network.](https://www.bio-net.dev/)
 I voluntarely work as a skill assesment reviewer where as a part of the team, I
