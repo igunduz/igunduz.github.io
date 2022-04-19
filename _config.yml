@@ -83,7 +83,7 @@ author:
   name             : "İREM GÜNDÜZ"
   avatar           : "profile.jpg"
   bio              : "PhD Canditate in Computer Science"
-  location         : "Saarland,Germany"
+  location         : "Saarbr�cken,Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vQvqhpcAAAAJ&hl=tr&authuser=1"
@@ -314,5 +314,5 @@ compress_html:
 plugins:
   - jekyll-remote-theme
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
