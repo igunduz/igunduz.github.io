@@ -18,20 +18,18 @@ I always enjoyed figuring out how something works, why it breaks, and how to fix
 it. I discovered the world of epigenetics during my undergraduate studies and,
 soon it imbued my interest.
 
--![Epigenetic factors control cell fate (Waddington's epigenetic landscape)](waddington-768x675.png)
-
 I use bioinformatics and computational epigenomics to develop a better
 understanding of cellular regulatory dynamics and cell state in developmental
 systems as well as in diseases.
 
-My interested can be summarized but not limited to:
+My research interests can be summarized as but are not limited to:
 
 *  Computational epigenomics
 *  Applied machine learning 
 *  Chromatin biology 
 *  Single-cell technology
 *  Developmental and disease biology
-
+*  Software development for bioinformatics
 
 I'm also an active member of [Bioinformatics Research Network.](https://www.bio-net.dev/)
 I voluntarely work as a skill assesment reviewer where as a part of the team, I
