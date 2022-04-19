@@ -1,16 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Site Settings
 locale                   : "en-US"
-title                    : "Ä°REM B. GÃœNDÃœZ"
+title                    : "Irem B. Gündüz"
 title_separator          : "-"
-name                     : &name "Ä°REM GÃœNDÃœZ"
-description              : &description "Graduate Student at Saarland University"
+name                     : &name "Irem B. Gündüz"
+description              : &description "PhD Canditate in Computer Science"
 url                      : https://igunduz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "igunduz/igunduz.github.io"
