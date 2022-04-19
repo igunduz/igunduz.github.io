@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IREM B. GÜNDÜZ"
+title                    : "ÝREM B. GÜNDÜZ"
 title_separator          : "-"
-name                     : &name "IREM GÜNDÜZ"
+name                     : &name "ÝREM GÜNDÜZ"
 description              : &description "Graduate Student at Saarland University"
 url                      : https://igunduz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
