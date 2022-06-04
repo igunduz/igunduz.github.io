@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "İREM B. GÜNDÜZ"
+title                    : "IREM GUNDUZ"
 title_separator          : "-"
-name                     : &name "İREM GÜNDÜZ"
-description              : &description "PhD Canditate in Computer Science"
+name                     : &name "IREM GUNDUZ"
+description              : &description "PhD Student in Computer Science"
 url                      : https://igunduz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "igunduz/igunduz.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "İREM B. GÜNDÜZ"
+  name             : "IREM B. GUNDUZ"
   avatar           : "profile.jpg"
-  bio              : "PhD Canditate in Computer Science"
+  bio              : "PhD Student in Computer Science"
   location         : "Saarbrucken,Germany"
   employer         :
   pubmed           : 

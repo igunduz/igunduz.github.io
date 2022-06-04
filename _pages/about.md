@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I'm a PhD student in Computer Science at [Saarland University.](https://www.uni-saarland.de/en/department/department-of-computer-science.html) I am currently working as a rotation studdent in the [Integrative Cellular Biology and Bioinformatics laboratory](https://icb.uni-saarland.de/) led by [Prof. Fabian Muller.](https://icb.uni-saarland.de/people/fabian-muller/)
+I'm a PhD student in Computer Science at [Saarland University.](https://www.uni-saarland.de/en/department/department-of-computer-science.html) I am currently working as a rotation student in the [Integrative Cellular Biology and Bioinformatics laboratory](https://icb.uni-saarland.de/) led by [Prof. Fabian Muller.](https://icb.uni-saarland.de/people/fabian-muller/)
 
 I always enjoyed figuring out how something works, why it breaks, and how to fix it. I use bioinformatics and computational epigenomics to develop a better understanding of cellular regulatory dynamics and cell state in developmental systems as well as in diseases.
 
