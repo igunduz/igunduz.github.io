@@ -6,6 +6,8 @@ excerpt: 'Comprehensive genomic profiling using cancer gene panels has been show
 date: 2022-06-17
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2022.06.15.496249v1'
+citation: 'Baranovskii, A., Gunduz, I. B., Franke, V., Uyar, B., & Akalin, A. (2022). Multi-omics alleviates the limitations of panel-sequencing for cancer drug response prediction. BioRxiv, 2022.06.15.496249. https://doi.org/10.1101/2022.06.15.496249
+doi:https://doi.org/10.1101/2022.06.15.496249'
 ---
 
 <a href='https://www.biorxiv.org/content/10.1101/2022.06.15.496249v1.full.pdf'>Download paper here</a>
