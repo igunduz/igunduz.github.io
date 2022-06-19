@@ -1,7 +1,6 @@
 ---
 title: "Multi-omics alleviates the limitations of panel-sequencing for cancer drug response prediction"
 collection: publications
-permalink: /publication/momix
 excerpt: 'Comprehensive genomic profiling using cancer gene panels has been shown to improve treatment options for a variety of cancer types. However, genomic aberrations detected via such gene panels don't necessarily serve as strong predictors of drug sensitivity. In this study, using pharmacogenomics datasets of cell lines, patient-derived xenografts, and ex-vivo treated fresh tumor specimens, we demonstrate that utilizing the transcriptome on top of gene panel features substantially improves drug response prediction performance in cancer.'
 date: 2022-06-17
 venue: 'bioRxiv'
