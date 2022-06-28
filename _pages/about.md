@@ -16,7 +16,8 @@ Also, I am currently working as a rotation student in the [Chair of Clinical Bio
 
 I always enjoyed figuring out how something works, why it breaks, and how to fix it. I focused on bioinformatics to explore the world of biology and learn how to use biological information to improve lives. Through those experiences, I have seen that the future of biology involves cell-type-specific investigations to detect the molecular changes that lead to diseases. This has now become the basis of my long-term research passion for single-cell bioinformatics. I use bioinformatics and computational epigenomics to develop a better understanding of cellular regulatory dynamics and cell state in developmental systems as well as in diseases. My research interests can be summarized as, but are not limited to:
 
-*  Interpretable Applied Machine Learning 
+*  Trustworthy Machine Learning 
+*  Graph Neural Networks
 *  Computational epigenomics
 *  Genome Regulation
 *  Aging Biology 
