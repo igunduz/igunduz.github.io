@@ -1,9 +1,9 @@
 ---
-title: "Single-Cell Bioinformatics Course, Saarland University Winter 2022"
+title: "Compgen2021: Hands-on Course on Machine Learning for Genomics"
 collection: teaching
 type: "de.NBI Course"
 permalink: /teaching/compgen2021
-venue: "Berlin Institute for Medical Systems Biology, Max Delbrück Center"
+venue: "Berlin Institute for Medical Systems Biology, Max Delbruck Center"
 date: 2021-08-02
 location: "Berlin, Germany"
 gallery:
