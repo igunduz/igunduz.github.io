@@ -1,5 +1,5 @@
 ---
-title: "Computational Genomics Course 2021"
+title: "Single-Cell Bioinformatics Course, Saarland University Winter 2022"
 collection: teaching
 type: "de.NBI Course"
 permalink: /teaching/compgen2021
