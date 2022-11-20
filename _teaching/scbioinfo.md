@@ -23,7 +23,7 @@ Learning Objectives
 
 * *26.10.2022* Introduction Lecture, SG&A
 
-* *28.10.2022 *An Overview of Single Cell Sequencing
+* *28.10.2022* An Overview of Single Cell Sequencing
 
 * *2.11.2022* scRNA-seq: Methods
 
@@ -35,9 +35,9 @@ Learning Objectives
 
 * *16.11.2022* Single Cell RNA Sequencing Differential Regulation and Pathway Analysis
 
-* *18.11.2022 * Cell Trajectory Inference
+* *18.11.2022* Cell Trajectory Inference
 
-* *23.11.2022 * Single-cell Epigenomics: Methods
+* *23.11.2022* Single-cell Epigenomics: Methods
 
 * *25.11.2022*  Single Cell ATAC Seq data analysis
 
@@ -51,9 +51,9 @@ Learning Objectives
 
 * *14.12.2022*  Spatial Transcriptomics data analysis
 
-* *16.12.2022 *  Spatial Omics
+* *16.12.2022*  Spatial Omics
 
-* *19.12.2022 - 6.1.2023 * No Lectures
+* *19.12.2022 - 6.1.2023* No Lectures
 
 * *11.1.2023*  Single Cell DNA Sequencing
 
@@ -67,7 +67,7 @@ Learning Objectives
 
 * *27.1.2023*  MultiOmics and MultiScale Modeling
 
-* *1.2.2023 * Recap Lecture, Q&A
+* *1.2.2023* Recap Lecture, Q&A
 
 * *3.2.2023*  Emerging Technologies
 
