@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/compgen2021
 venue: "Saarland University"
-date: 2022-21-10
+date: 2022-10-21
 location: "Saarbrucken, Germany"
 ---
 
@@ -16,8 +16,9 @@ As the teaching assistant of this course, I prepared the applied course material
 General Info
 ======
 
-This course is credited with 9CP for Bioinformatics (master) students. Medicine students can take it as a Wahlpflichtfach in the clinical part.
-The lecture will be held between 26.10.2022 and 08.02.2023
+* This course is credited with **9 CP** for Bioinformatics (master) students. Medicine students can take it as a Wahlpflichtfach in the clinical part.
+
+* The lecture will be held between 26.10.2022 and 08.02.2023
 
 
 Learning Objectives
