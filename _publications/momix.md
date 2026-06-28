@@ -1,10 +1,10 @@
 ---
-title: "Multi-omics alleviates the limitations of panel-sequencing for cancer drug response prediction"
+title: "Multi-Omics Alleviates the Limitations of Panel Sequencing for Cancer Drug Response Prediction"
 collection: publications
 permalink: /publication/momix
-date: 2022-06-17
-venue: 'bioRxiv'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2022.06.15.496249v1'
-link: 'https://doi.org/10.1101/2022.06.15.496249'
-citation: 'Baranovskii, A., Gunduz, I. B., Franke, V., Uyar, B., & Akalin, A. (2022). Multi-omics alleviates the limitations of panel-sequencing for cancer drug response prediction. BioRxiv, 2022.06.15.496249. doi:10.1101/2022.06.15.496249'
+date: 2022-11-14
+venue: 'Cancers'
+paperurl: 'https://doi.org/10.3390/cancers14225604'
+link: 'https://doi.org/10.3390/cancers14225604'
+citation: 'Baranovskii, A.*, Gündüz, I. B.*, Franke, V., Uyar, B., & Akalin, A. (2022). Multi-Omics Alleviates the Limitations of Panel Sequencing for Cancer Drug Response Prediction. Cancers, 14(22), 5604. (*joint first authors) doi:10.3390/cancers14225604'
 ---

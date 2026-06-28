@@ -64,3 +64,27 @@ users can create `samples` using `simulateCellMix` function. You can get more
 information about **deconvR** from
 [here](http://bioinformatics.mdc-berlin.de/deconvR/) and also
 [here.](https://bioconductor.org/packages/release/bioc/html/deconvR.html)
+
+# methylTFR
+
+[**methylTFR**](https://github.com/EpigenomeInformatics/methylTFR) is an R package I develop for inferring transcription-factor activity directly from DNA methylation data. It lets researchers move from methylation profiles to interpretable, regulator-level signals that can be linked back to cell-type-specific gene regulation.
+
+You can install the development version from GitHub:
+
+``` r
+remotes::install_github("EpigenomeInformatics/methylTFR")
+```
+
+# ChrAccR
+
+[**ChrAccR**](https://github.com/EpigenomeInformatics/ChrAccR) is an R package I maintain for the unified analysis of single-cell and bulk ATAC-seq data. It provides a consistent workflow for processing, quality control, and downstream analysis of chromatin accessibility across experimental designs.
+
+You can install the development version from GitHub:
+
+``` r
+remotes::install_github("EpigenomeInformatics/ChrAccR")
+```
+
+# ARTEMIS
+
+[**ARTEMIS**](https://github.com/EpigenomeInformatics/ARTEMIS) is an attention-based graph neural network (built on GATv2 in Python and PyTorch Geometric) that embeds transcription-factor interaction priors directly into the model, so that predictions about gene regulation come with interpretable, biologically grounded explanations. ARTEMIS is currently in preparation, and the repository will be made public alongside the manuscript.
