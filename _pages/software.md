@@ -1,11 +1,6 @@
 ---
 title: "Software"
 permalink: /software/
-gallery:
-- url: software/deconvR_logo.png
-  image_path: software/deconvR_logo.png
-  alt: R/Bioconductor Package for Simulation and Deconvolution of Omic Profiles
-  title: R/Bioconductor Package for Simulation and Deconvolution of Omic Profiles
 ---
 
 I benefited from countless open-source materials and software until now. I'm
@@ -20,6 +15,8 @@ which I had the opportunity to develop during my internship at [Max Delbrück Ce
 
 # deconvR
 
+<img src="/images/software/deconvR_hex.png" alt="deconvR logo" class="logo-hex">
+
 [![R-CMD-check](https://github.com/BIMSBbioinfo/deconvR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/BIMSBbioinfo/deconvR/actions/workflows/R-CMD-check.yaml)
 [![codecov](https://codecov.io/gh/BIMSBbioinfo/deconvR/branch/master/graph/badge.svg?token=F86XU6BI9S)](https://codecov.io/gh/BIMSBbioinfo/deconvR)
 [![](https://img.shields.io/badge/release%20version-1.4.1-green.svg)](https://www.bioconductor.org/packages/deconvR)
@@ -33,7 +30,6 @@ reference signature profiles and a user-selected model (non-negative least
 squares,quadratic programming, support vector regression, or robust linear
 regression). 
 
-{% include gallery %}
 
 
 ## Installation
@@ -78,6 +74,8 @@ remotes::install_github("EpigenomeInformatics/methylTFR")
 ```
 
 # ChrAccR
+
+<span class="logo-light"><img src="/images/software/ChrAccR_logo.png" alt="ChrAccR logo"></span>
 
 [**ChrAccR**](https://github.com/EpigenomeInformatics/ChrAccR) is an R package I maintain for the unified analysis of single-cell and bulk ATAC-seq data. It provides a consistent workflow for processing, quality control, and downstream analysis of chromatin accessibility across experimental designs.
 

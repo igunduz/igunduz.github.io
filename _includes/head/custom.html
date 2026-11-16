@@ -123,8 +123,11 @@
   /* figures and logos */
   .figure-light, .page__content img.figure-light { display: block; padding: 14px; background: #fff; border-radius: 10px; }
   .logo-hex { float: right; width: 112px; margin: 0 0 0.6em 1.2em; background: #fff; -webkit-clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%); clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%); }
-  .logo-dark { display: inline-block; margin: 0 0 1em; padding: 16px 26px; background: #0f1013; border: 1px solid var(--line); border-radius: 8px; }
-  .logo-dark img { display: block; width: 230px; max-width: 100%; }
+  .logo-slot { float: right; width: 112px; margin: 0 0 0.6em 1.2em; }
+  .logo-dark { float: right; display: flex; align-items: center; justify-content: center; box-sizing: border-box; width: 112px; height: 129px; margin: 0 0 0.6em 1.2em; padding: 0 10px; background: #0f1013; border: 1px solid var(--line); border-radius: 8px; }
+  .logo-dark img { display: block; width: 100%; }
+  .logo-light { float: right; display: flex; align-items: center; justify-content: center; box-sizing: border-box; width: 112px; height: 129px; margin: 0 0 0.6em 1.2em; padding: 0 8px; background: #fff; border-radius: 8px; }
+  .logo-light img { display: block; width: 100%; }
   .cv-date { float: right; color: var(--muted); font-size: 0.9em; }
 
   /* homepage */
@@ -163,6 +166,13 @@
   .chip-row { margin: 0 0 0.9em; }
   .chip-row > span { display: block; margin-bottom: 0.4em; color: var(--muted); font-size: 0.7em; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
   .chip { display: inline-block; margin: 0 0.35em 0.4em 0; padding: 0.2em 0.75em; background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; color: var(--text); font-size: 0.75em; }
+  @media (max-width: 767px) {
+    .greedy-nav { height: auto; min-height: 0; padding: 0.4em 0; }
+    .greedy-nav .visible-links { flex-wrap: wrap; justify-content: flex-start; overflow: visible; white-space: normal; }
+    .greedy-nav .visible-links li { flex: none; }
+    .greedy-nav .visible-links a { margin: 0 0.9em 0 0; padding: 0.3em 0; font-size: 0.9em; }
+    .masthead__menu-item--lg { flex-basis: 100%; }
+  }
   @media (max-width: 640px) {
     .cards { grid-template-columns: 1fr; }
     .hero__net { display: none; }

@@ -40,6 +40,8 @@ We profiled human immune cells with multimodal single-cell assays and compared c
 
 ## ChrAccR
 
+<span class="logo-light"><img src="/images/software/ChrAccR_logo.png" alt="ChrAccR logo"></span>
+
 *R package. First-author manuscript in preparation. [Code](https://github.com/EpigenomeInformatics/ChrAccR)*
 
 ChrAccR analyses chromatin accessibility (ATAC-seq) data from single cells and bulk samples in one memory-efficient framework, from processing and quality control to downstream analysis.
