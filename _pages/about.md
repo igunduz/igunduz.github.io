@@ -23,3 +23,5 @@ Research interests:
 *  Single-cell and bulk multi-omics integration
 *  Causal inference in epigenomics
 *  Open-source bioinformatics software
+
+I'm a member of [AI Grid](https://ai-grid.org/), a German network that connects early-career AI researchers with mentors from academia and industry.

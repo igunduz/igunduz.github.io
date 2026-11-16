@@ -69,7 +69,8 @@ See [Publications](/publications/), [Research](/research/) and [Software](/softw
 
 ## Teaching and mentoring
 
-* Teaching Assistant, Single-Cell Bioinformatics (every winter semester), Saarland University.
+* Teaching Assistant, [Single-Cell Bioinformatics](/teaching/scbioinfo) (every winter semester), Saarland University.
+* Teaching Assistant, [Seminar: Case Studies of Reproducibility in Bioinformatics](/teaching/reproducibility-seminar) (winter term 2023/24), Saarland University.
 * Co-supervisor, MSc thesis on multi-modal CD8 T-cell exhaustion.
 * Teaching Assistant, CompGen 2021: Hands-on Course on Machine Learning for Genomics. Prepared benchmark ML models and mentored capstone projects.
 
@@ -79,6 +80,10 @@ See [Publications](/publications/), [Research](/research/) and [Software](/softw
 * Preparatory-Phase PhD Scholarship, Saarland University Graduate School of Computer Science (2021–2023).
 * TÜBİTAK 1001 Research Scholarship, Scientific & Technological Research Council of Turkey (2020–2021).
 * Honor Student, Marmara University, Department of Bioengineering (2021).
+
+## Memberships
+
+* [AI Grid](https://ai-grid.org/), a German network for early-career AI researchers.
 
 ## Selected talks and activities
 

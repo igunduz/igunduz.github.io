@@ -1,81 +1,35 @@
 ---
-title: "Single-Cell Bioinformatics Course, Saarland University Winter 2022"
+title: "Single-Cell Bioinformatics (every winter semester)"
 collection: teaching
-type: "Course"
+type: "Lecture with programming projects"
 permalink: /teaching/scbioinfo
 venue: "Saarland University"
-date: 2022-10-21
-location: "Saarbrucken, Germany"
+date: 2026-10-14
+location: "Saarbrücken, Germany"
 ---
 
-As the teaching assistant of this course, I prepared the applied course material and assist the participants throught the projects. 
+I am a teaching assistant for this course every winter semester it runs: 2022/23, 2024/25, 2025/26 and 2026/27. I prepare the applied material, run the tutorials and help the participants through the programming projects.
 
-General Info
+About the course
 ======
 
-* This course is credited with **9 CP** for Bioinformatics (master) students. Medicine students can take it as a Wahlpflichtfach in the clinical part.
+* A special lecture for Bioinformatics master's students, worth **9 ECTS**, taught in English by Jun.-Prof. Dr. Fabian Müller.
+* Two lectures and one tutorial per week, with three programming projects on real single-cell datasets and a final exam.
+* Students need 50% of the points on the programming projects to be admitted to the exam.
 
-* The lecture will be held between 26.10.2022 and 08.02.2023
-
-
-Learning Objectives
+Topics
 ======
 
-* *26.10.2022* Introduction Lecture, SG&A
+* Single-cell transcriptomics, epigenomics (chromatin accessibility, DNA methylation) and multiomics
+* Spatial transcriptomics, single-cell DNA sequencing and single-cell proteomics
+* Processing, quality control and exploratory analysis of single-cell data
+* Trajectory inference and data integration across datasets and omics layers
+* Gene-regulatory network inference and machine learning on single-cell data
 
-* *28.10.2022* An Overview of Single Cell Sequencing
-
-* *2.11.2022* scRNA-seq: Methods
-
-* *4.11.2022* scRNA-seq: Data processing and Quality Control I
-
-* *9.11.2022* scRNA-seq: Data processing and Quality Control II
-
-* *11.11.2022* scRNA-seq: Data analysis
-
-* *16.11.2022* Single Cell RNA Sequencing Differential Regulation and Pathway Analysis
-
-* *18.11.2022* Cell Trajectory Inference
-
-* *23.11.2022* Single-cell Epigenomics: Methods
-
-* *25.11.2022*  Single Cell ATAC Seq data analysis
-
-* *30.11.2022*  Single Cell Data Integration
-
-* *2.12.2022*  Single Cell Data Integration II and cell fate
-
-* *7.12.2022*  Single-cell Multiomics of transcriptome and epigenome
-
-* *9.12.2022*  Spatial Transcriptomics Methods
-
-* *14.12.2022*  Spatial Transcriptomics data analysis
-
-* *16.12.2022*  Spatial Omics
-
-* *19.12.2022 - 6.1.2023* No Lectures
-
-* *11.1.2023*  Single Cell DNA Sequencing
-
-* *13.1.2023*  Single Cell Genetic Perturbation
-
-* *18.1.2023*  Single Cell Bacterial RNA Sequencing
-
-* *20.1.2023*  Single Molecule Sequencing
-
-* *25.1.2023*  Single Cell Proteomics
-
-* *27.1.2023*  MultiOmics and MultiScale Modeling
-
-* *1.2.2023* Recap Lecture, Q&A
-
-* *3.2.2023*  Emerging Technologies
-
-* *8.2.2023*  Exam
-
-Course Materials
+Course pages and materials
 ======
 
-* All of the course materials can be accessed from [here.](https://www.ccb.uni-saarland.de/teaching/single-cell-bioinformatics-winter-term-2022-23/)
-
-* Tutorial materials  can be accessed from [here.](https://github.com/igunduz/scBioinfoCourse)
+* Current term: [Single-Cell Bioinformatics, winter 2026/2027](https://icb.uni-saarland.de/scb2026/)
+* All terms: [ICBB teaching page](https://icb.uni-saarland.de/teaching/)
+* Winter 2022/23 lecture schedule: [course page](https://www.ccb.uni-saarland.de/teaching/single-cell-bioinformatics-winter-term-2022-23/)
+* My tutorial materials: [github.com/igunduz/scBioinfoCourse](https://github.com/igunduz/scBioinfoCourse)
