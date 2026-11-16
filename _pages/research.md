@@ -16,11 +16,17 @@ We profiled human immune cells with multimodal single-cell assays and compared c
 
 ## methylTFR
 
-*R package. bioRxiv preprint, 2026, under review. [Code](https://github.com/EpigenomeInformatics/methylTFR) · [Preprint](https://doi.org/10.64898/2026.09.29.755279)*
+<img src="/images/software/methylTFR_logo.png" alt="methylTFR logo" class="logo-hex">
+
+*R package. bioRxiv preprint, 2026, under review. [Code](https://github.com/EpigenomeInformatics/methylTFR) · [Documentation](https://epigenomeinformatics.github.io/methylTFR/) · [Preprint](https://doi.org/10.64898/2026.09.29.755279)*
 
 methylTFR quantifies transcription-factor activity from DNA methylation data. Given methylation profiles, it returns an activity score per transcription factor, so differences between samples or cell types can be read as differences in regulators instead of in individual CpGs.
 
+The methylTFR annotation packages have been accepted to Bioconductor. methylTFR itself is under review there.
+
 ## ARTEMIS
+
+<span class="logo-dark"><img src="/images/software/ARTEMIS_logo.png" alt="ARTEMIS logo"></span>
 
 *Python, PyTorch Geometric. Manuscript in preparation. [Repository](https://github.com/EpigenomeInformatics/ARTEMIS)*
 
@@ -46,6 +52,12 @@ At a heterozygous SNP, both alleles sit in the same nucleus and in the same ATAC
 4. **Test each site.** `calcASCStatistics()` runs a two-sided binomial test against 0.5 per site and sample, with Benjamini-Hochberg correction within each sample. `filterForRecurrence()` can then keep the sites found in at least two donors.
 
 After testing, `ascSharing()` estimates how many imbalanced sites stay imbalanced in another condition or cell type, and `ascMotifPreference()` checks whether the less accessible allele is the one with the weaker transcription-factor motif. The [vignette](https://epigenomeinformatics.github.io/ChrAccR/articles/allelespec.html) runs the full analysis on example data from the immune cell atlas of Calderon et al. (2019). The functions are in the `alleleSpec` branch of ChrAccR.
+
+## Transcription-factor perturbations
+
+*In progress.*
+
+My newest project is on transcription-factor perturbations. I'll describe it here once the work is public.
 
 ## CD8 T-cell exhaustion
 

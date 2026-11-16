@@ -23,5 +23,3 @@ Research interests:
 *  Single-cell and bulk multi-omics integration
 *  Causal inference in epigenomics
 *  Open-source bioinformatics software
-
-I'm a member of the [Bioinformatics Research Network](https://www.bio-net.dev/), where I volunteer as a skill-assessment reviewer and check trainees' code for efficiency and cleanliness.

@@ -67,9 +67,11 @@ information about **deconvR** from
 
 # methylTFR
 
-[**methylTFR**](https://github.com/EpigenomeInformatics/methylTFR) is an R package I develop for inferring transcription-factor activity directly from DNA methylation data. It lets researchers move from methylation profiles to interpretable, regulator-level signals that can be linked back to cell-type-specific gene regulation.
+<img src="/images/software/methylTFR_logo.png" alt="methylTFR logo" class="logo-hex">
 
-You can install the development version from GitHub:
+[**methylTFR**](https://github.com/EpigenomeInformatics/methylTFR) is an R package I develop for inferring transcription-factor activity directly from DNA methylation data. It lets researchers move from methylation profiles to interpretable, regulator-level signals that can be linked back to cell-type-specific gene regulation. Documentation and vignettes are at [epigenomeinformatics.github.io/methylTFR](https://epigenomeinformatics.github.io/methylTFR/).
+
+The methylTFR annotation packages have been accepted to Bioconductor, and methylTFR itself is under review there. Until it is released, install the development version from GitHub:
 
 ``` r
 remotes::install_github("EpigenomeInformatics/methylTFR")
@@ -92,5 +94,7 @@ devtools::install_github("EpigenomeInformatics/ChrAccR", ref = "alleleSpec", dep
 ```
 
 # ARTEMIS
+
+<span class="logo-dark"><img src="/images/software/ARTEMIS_logo.png" alt="ARTEMIS logo"></span>
 
 [**ARTEMIS**](https://github.com/EpigenomeInformatics/ARTEMIS) is an attention-based graph neural network (built on GATv2 in Python and PyTorch Geometric) that embeds transcription-factor interaction priors directly into the model, so that predictions about gene regulation come with interpretable, biologically grounded explanations. ARTEMIS is currently in preparation, and the repository will be made public alongside the manuscript.
