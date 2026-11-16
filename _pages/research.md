@@ -6,13 +6,21 @@ redirect_from:
   - /projects/
 ---
 
-These are the projects I'm working on now. Papers that are already out are on the [Publications](/publications/) page, and install instructions for the packages are under [Software](/software/).
+My projects, with the machine-learning work first. Papers that are already out are on the [Publications](/publications/) page, and install instructions for the packages are under [Software](/software/).
 
-## Immune-cell epigenomes after viral and chemical exposure
+## Transcription-factor perturbations
 
-*Primary PhD project. First-author preprint, 2025.*
+*In progress.*
 
-We profiled human immune cells with multimodal single-cell assays and compared cells from people exposed to viruses or chemicals with unexposed cells. I ask which regulatory regions gain or lose accessibility and methylation after exposure, and in which cell types. An earlier part of this work, on chromatin accessibility in peripheral blood cells after pathogen exposure, was a poster at RECOMB 2023.
+My newest project is on transcription-factor perturbations. I'll describe it here once the work is public.
+
+## ARTEMIS
+
+<span class="logo-dark"><img src="/images/software/ARTEMIS_logo.png" alt="ARTEMIS logo"></span>
+
+*Python, PyTorch Geometric. Manuscript in preparation. [Repository](https://github.com/EpigenomeInformatics/ARTEMIS)*
+
+ARTEMIS is a graph neural network (GATv2 with skip connections) that predicts cell type from methylation signatures. Its graph is built from known TF–TF interactions, so the attention weights point to the transcription factors and interactions that drove each prediction. I am the sole developer.
 
 ## methylTFR
 
@@ -24,13 +32,11 @@ methylTFR quantifies transcription-factor activity from DNA methylation data. Gi
 
 The methylTFR annotation packages have been accepted to Bioconductor. methylTFR itself is under review there.
 
-## ARTEMIS
+## Immune-cell epigenomes after viral and chemical exposure
 
-<span class="logo-dark"><img src="/images/software/ARTEMIS_logo.png" alt="ARTEMIS logo"></span>
+*Primary PhD project. First-author preprint, 2025.*
 
-*Python, PyTorch Geometric. Manuscript in preparation. [Repository](https://github.com/EpigenomeInformatics/ARTEMIS)*
-
-ARTEMIS is a graph neural network (GATv2 with skip connections) that predicts cell type from methylation signatures. Its graph is built from known TF–TF interactions, so the attention weights point to the transcription factors and interactions that drove each prediction. I am the sole developer.
+We profiled human immune cells with multimodal single-cell assays and compared cells from people exposed to viruses or chemicals with unexposed cells. I ask which regulatory regions gain or lose accessibility and methylation after exposure, and in which cell types. An earlier part of this work, on chromatin accessibility in peripheral blood cells after pathogen exposure, was a poster at RECOMB 2023.
 
 ## ChrAccR
 
@@ -52,12 +58,6 @@ At a heterozygous SNP, both alleles sit in the same nucleus and in the same ATAC
 4. **Test each site.** `calcASCStatistics()` runs a two-sided binomial test against 0.5 per site and sample, with Benjamini-Hochberg correction within each sample. `filterForRecurrence()` can then keep the sites found in at least two donors.
 
 After testing, `ascSharing()` estimates how many imbalanced sites stay imbalanced in another condition or cell type, and `ascMotifPreference()` checks whether the less accessible allele is the one with the weaker transcription-factor motif. The [vignette](https://epigenomeinformatics.github.io/ChrAccR/articles/allelespec.html) runs the full analysis on example data from the immune cell atlas of Calderon et al. (2019). The functions are in the `alleleSpec` branch of ChrAccR.
-
-## Transcription-factor perturbations
-
-*In progress.*
-
-My newest project is on transcription-factor perturbations. I'll describe it here once the work is public.
 
 ## CD8 T-cell exhaustion
 

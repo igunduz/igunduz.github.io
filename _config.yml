@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Irem B. Gündüz"
 title_separator          : "-"
 name                     : &name "Irem B. Gündüz"
-description              : &description "PhD candidate in computational biology at Saarland University: multi-omics, machine learning, open-source genomics software"
+description              : &description "PhD candidate at Saarland University working on machine learning for single-cell multi-omics: interpretable graph neural networks, transcription-factor activity and perturbation modeling"
 url                      : https://igunduz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "igunduz/igunduz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Irem B. Gündüz"
   avatar           : "profile.png"
-  bio              : "PhD candidate in computational biology. Multi-omics, machine learning, open-source genomics software."
+  bio              : "PhD candidate, Saarland University. Machine learning for single-cell multi-omics: interpretable GNNs, TF activity, perturbation modeling."
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : 
