@@ -48,7 +48,7 @@ ChrAccR analyses chromatin accessibility (ATAC-seq) data from single cells and b
 
 At a heterozygous SNP, both alleles sit in the same nucleus and in the same ATAC-seq library. If one allele collects more reads than the other, the variant itself changes accessibility. I added a module to ChrAccR that finds these sites. It stores reference and alternative read counts in a `DsASC` object, with one row per SNP and one column per sample.
 
-![The ASC workflow in ChrAccR: sorted cells, genotyping per donor, mapping-bias removal, allele counting, per-site test](/images/research/asc_workflow.png)
+![The ASC workflow in ChrAccR: sorted cells, genotyping per donor, mapping-bias removal, allele counting, per-site test](/images/research/asc_workflow.png){: .figure-light}
 
 *The ASC workflow in ChrAccR. The filter for sites supported by at least two donors in the last box is optional.*
 
