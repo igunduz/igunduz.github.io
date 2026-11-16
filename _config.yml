@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IREM GUNDUZ"
+title                    : "Irem B. Gündüz"
 title_separator          : "-"
-name                     : &name "IREM GUNDUZ"
-description              : &description "PhD Candidate in Computational Epigenomics and Machine Learning at Saarland University"
+name                     : &name "Irem B. Gündüz"
+description              : &description "PhD candidate in computational biology at Saarland University: multi-omics, machine learning, open-source genomics software"
 url                      : https://igunduz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "igunduz/igunduz.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "IREM B. GUNDUZ"
-  avatar           : "profile.jpg"
-  bio              : "PhD Candidate in Computational Epigenomics and Machine Learning"
-  location         : "Saarbrucken,Germany"
+  name             : "Irem B. Gündüz"
+  avatar           : "profile.png"
+  bio              : "PhD candidate in computational biology. Multi-omics, machine learning, open-source genomics software."
+  location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vQvqhpcAAAAJ&hl=tr&authuser=1"

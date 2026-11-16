@@ -1,17 +1,16 @@
-# main links links
+# main links
 main:
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching Experience"
-    url: /teaching/    
-    
   - title: "Software"
     url: /software/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
-    

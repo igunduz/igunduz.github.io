@@ -2,7 +2,7 @@
 title: "Single-Cell Bioinformatics Course, Saarland University Winter 2022"
 collection: teaching
 type: "Course"
-permalink: /teaching/compgen2021
+permalink: /teaching/scbioinfo
 venue: "Saarland University"
 date: 2022-10-21
 location: "Saarbrucken, Germany"

@@ -6,5 +6,5 @@ date: 2025-03-01
 venue: 'Preprint'
 paperurl: ''
 link: ''
-citation: 'Gündüz, I. B., et al. (2025). Dissecting the Epigenome Dynamics in Human Immune Cells upon Viral and Chemical Exposure by Multimodal Single-Cell Profiling. Preprint. [TODO: add DOI / link]'
+citation: 'Gündüz, I. B., et al. (2025). Dissecting the epigenome dynamics in human immune cells upon viral and chemical exposure by multimodal single-cell profiling. Preprint.'
 ---

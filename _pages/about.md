@@ -1,5 +1,5 @@
 ---
-title: "*Merhaba!* *Hi!* *Hallo!*  *Bonjour!*"
+title: "*Merhaba!* *Hi!* *Hallo!* *Bonjour!*"
 permalink: /
 excerpt: About me
 author_profile: yes
@@ -8,18 +8,20 @@ redirect_from:
 - /about.html
 ---
 
-I'm a PhD candidate in the [Integrative Cellular Biology and Bioinformatics Laboratory](https://icb.uni-saarland.de/) at Saarland University, working where machine learning meets gene regulation.
+I'm a PhD candidate in computer science at Saarland University, in the [Integrative Cellular Biology and Bioinformatics Lab](https://icb.uni-saarland.de/) led by Jun.-Prof. Dr. Fabian Müller. I expect to finish in 2027.
 
-I develop interpretable, biologically informed models that help explain how cells with identical DNA establish and change their identity. A central theme of my work is building graph neural networks that embed real biological structure, such as transcription-factor interaction networks, directly into how they learn, so that predictions arrive with explanations a biologist can actually use. My research spans single-cell and bulk multi-omics, explainable AI, and causal inference, and has contributed to studies of the human immune epigenome (Nature Genetics, 2025).
+My research asks how cells with identical DNA establish and change their identity. I work with human immune cells, profiled with single-cell and bulk multi-omics (scATAC-seq, snmC-seq2, RNA-seq, DNA methylation), and I analyse them with statistical and machine-learning models. Most of my modelling work is on transcription factors: which ones are active in a cell type, and how they act together. I build graph neural networks that take known transcription-factor interactions as input structure, so a prediction can be traced back to the regulators behind it.
 
-I also care deeply about open-source software, and I develop and maintain genomics packages in R and Python, including [deconvR](https://bioconductor.org/packages/release/bioc/html/deconvR.html) (Bioconductor), methylTFR, and ChrAccR.
+I am a co-author of a study of how genetics and environment shape the human immune cell epigenome ([*Nature Genetics*, 2026](https://doi.org/10.1038/s41588-025-02479-6)). My first-author projects are listed under [Research](/research/).
 
-My research interests include:
+I also write and maintain open-source genomics software in R and Python: [deconvR](https://bioconductor.org/packages/release/bioc/html/deconvR.html) on Bioconductor, [methylTFR](https://github.com/EpigenomeInformatics/methylTFR) and [ChrAccR](https://github.com/EpigenomeInformatics/ChrAccR). Details are on the [Software](/software/) page.
 
-*  Explainable and interpretable machine learning
-*  Graph neural networks for gene regulation
+Research interests:
+
+*  Interpretable machine learning for gene regulation
+*  Graph neural networks on transcription-factor networks
 *  Single-cell and bulk multi-omics integration
 *  Causal inference in epigenomics
-*  Open-source software development for bioinformatics
+*  Open-source bioinformatics software
 
-I'm also an active member of the [Bioinformatics Research Network](https://www.bio-net.dev/), where I volunteer as a skill-assessment reviewer, evaluating the code efficiency and cleanliness of [BRN](https://www.bio-net.dev/) trainees.
+I'm a member of the [Bioinformatics Research Network](https://www.bio-net.dev/), where I volunteer as a skill-assessment reviewer and check trainees' code for efficiency and cleanliness.

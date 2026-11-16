@@ -85,6 +85,12 @@ You can install the development version from GitHub:
 remotes::install_github("EpigenomeInformatics/ChrAccR")
 ```
 
+ChrAccR also has a module for allele-specific chromatin accessibility (ASC), which tests whether one allele of a heterozygous SNP is more accessible than the other. The workflow is described on the [Research](/research/#allele-specific-chromatin-accessibility) page and in the [ASC vignette](https://epigenomeinformatics.github.io/ChrAccR/articles/allelespec.html). It is in the `alleleSpec` branch:
+
+``` r
+devtools::install_github("EpigenomeInformatics/ChrAccR", ref = "alleleSpec", dependencies = TRUE)
+```
+
 # ARTEMIS
 
 [**ARTEMIS**](https://github.com/EpigenomeInformatics/ARTEMIS) is an attention-based graph neural network (built on GATv2 in Python and PyTorch Geometric) that embeds transcription-factor interaction priors directly into the model, so that predictions about gene regulation come with interpretable, biologically grounded explanations. ARTEMIS is currently in preparation, and the repository will be made public alongside the manuscript.
